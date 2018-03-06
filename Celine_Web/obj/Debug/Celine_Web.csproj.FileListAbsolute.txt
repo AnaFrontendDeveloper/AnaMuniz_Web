@@ -1,0 +1,9 @@
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\bin\Celine_Web.dll.config
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\bin\Celine_Web.dll
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\bin\Celine_Web.pdb
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\obj\Debug\Celine_Web.csprojResolveAssemblyReference.cache
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\obj\Debug\Celine_Web.csproj.CoreCompileInputs.cache
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\obj\Debug\Celine_Web.dll
+C:\Users\anamu\Desktop\Proyectos Web\Celine_Web\Celine_Web\obj\Debug\Celine_Web.pdb
